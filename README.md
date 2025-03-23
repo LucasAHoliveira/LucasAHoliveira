@@ -17,7 +17,7 @@
 
 <h3 align=center>» ⌜My skills⌟ «</h3>
 <div style="text-align: center;" align="center"><br>
-<img align="center" alt="Preguicinha-Py" src="https://skillicons.dev/icons?i=js,py,linux,kali,git,sql,django">
+<img align="center" alt="Preguicinha-Py" src="https://skillicons.dev/icons?i=js,py,linux,kali,git,Mysql,django">
 </div><br><br>
 
 #
