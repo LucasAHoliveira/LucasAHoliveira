@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Playwrite+Deutschland+Grundschrift&pause=1000&color=BB0000&background=B91EFF00&center=true&vCenter=true&width=435&lines=%E2%9C%A6+Welcome+To+My+Profile!+%E2%9C%A6;%C2%BB+Hi+Guys!+%C2%AB" alt="Typing SVG" /></a>
 </div>
 
-<h2 align=center>» I'm a Studying Data Science and Computer Science «</h2><br>
+<h2 align=center>» Data Science and Computer Science «</h2><br>
 
 <img align="right" alt="" height="190px" src="./src">
 
